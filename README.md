@@ -13,8 +13,6 @@
 
 <div align="center">
 
-### `Building the future with code and creativity` 🚀
-
 </div>
 
 ## 🎓 About Me 
@@ -90,6 +88,7 @@ const currentFocus = {
 ### 🌱 Sustania
 *An innovative sustainability project leveraging AI*
 <details>
+    
 <summary>View Details</summary>
 
 - Frontend - Typescript
@@ -97,17 +96,20 @@ const currentFocus = {
 - Advanced ML algorithms for environmental impact analysis
 - Sustainable technology implementation
 - Check out at [Sustania](https://github.com/RonnMath03/Sustania)
+
 </details>
 
 ### ✈️ TripAmigo
 *Designing Memories, Just For You*
 <details>
+
 <summary>View Details</summary>
 
 - Built with TypeScript & Tailwind CSS
 - Modern Vite development workflow
 - Live at [tripamigo.in](https://tripamigo.in)
 - Repository showcases clean architecture and modern web practices
+
 </details>
 
 </div>
