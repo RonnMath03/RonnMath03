@@ -92,13 +92,15 @@ const currentFocus = {
 <details>
 <summary>View Details</summary>
 
+- Frontend - Typescript
+- Backend - Python
 - Advanced ML algorithms for environmental impact analysis
 - Sustainable technology implementation
-- Coming soon...
+- Check out at [Sustania](https://github.com/RonnMath03/Sustania)
 </details>
 
-### 🧳 TripAmigo
-*Your smart travel companion*
+### ✈️ TripAmigo
+*Designing Memories, Just For You*
 <details>
 <summary>View Details</summary>
 
@@ -128,7 +130,7 @@ const currentFocus = {
 
 <div align="center">
 
-*"Turning coffee into code and dreams into reality"* ☕️
+*"All the world's a stage"* 🎭
 
 ⭐️ From [RonnMath03](https://github.com/RonnMath03)
 
