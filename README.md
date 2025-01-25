@@ -72,10 +72,6 @@ const currentFocus = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonnMath03&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RonnMath03&show_icons=true&theme=tokyonight" width="400">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnMath03&layout=compact&theme=tokyonight" width="400">
