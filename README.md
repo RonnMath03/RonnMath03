@@ -41,8 +41,8 @@ const currentFocus = {
 ![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### AI & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Beginner-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Specialist-FF5733?style=for-the-badge&logo=artstation&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-Advanced-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -52,12 +52,6 @@ const currentFocus = {
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-### Other Languages
-<div>
-    <img src="https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 </div>
@@ -76,21 +70,6 @@ const currentFocus = {
 ## 🎯 Featured Projects
 
 <div align="center">
-
-### 🥗 FoodFit - Responsible Consumption Platform
-*An ML-powered platform to optimize food consumption and reduce waste, built for Hacksus'25 (UN SDG 12).*
-
-<details>
-<summary>View Details</summary>
-
-- **Core Idea**: Provides data-driven insights, personalized portion recommendations, and waste forecasts to promote sustainable eating habits.
-- **Tech Stack**:
-    - **Frontend**: `TypeScript`, `React`, `Vite`, `Chakra UI`, `React Query`
-    - **Backend**: `Python`, `Flask`, `scikit-learn`, `XGBoost`
-- **ML Models**: Implemented Gradient Boosting for portion prediction, a Random Forest for waste classification, and collaborative filtering for meal recommendations.
-- **Repository**: [FoodFit](https://github.com/RonnMath03/FoodFit)
-
-</details>
 
 ### 🎧 Unsupervised Domain Adaptation for Audio Classification
 *Research projects from my IIT Mandi internship, focused on cross-device acoustic scene classification.*
@@ -121,6 +100,21 @@ const currentFocus = {
 - Advanced ML algorithms for environmental impact analysis
 - Sustainable technology implementation
 - Check out at [Sustania](https://github.com/RonnMath03/Sustania)
+
+</details>
+
+### 🥗 FoodFit - Responsible Consumption Platform
+*An ML-powered platform to optimize food consumption and reduce waste, built for Hacksus'25 (UN SDG 12).*
+
+<details>
+<summary>View Details</summary>
+
+- **Core Idea**: Provides data-driven insights, personalized portion recommendations, and waste forecasts to promote sustainable eating habits.
+- **Tech Stack**:
+    - **Frontend**: `TypeScript`, `React`, `Vite`, `Chakra UI`, `React Query`
+    - **Backend**: `Python`, `Flask`, `scikit-learn`, `XGBoost`
+- **ML Models**: Implemented Gradient Boosting for portion prediction, a Random Forest for waste classification, and collaborative filtering for meal recommendations.
+- **Repository**: [FoodFit](https://github.com/RonnMath03/FoodFit)
 
 </details>
 
