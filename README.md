@@ -3,7 +3,7 @@
 # 👨‍💻 Ronn Mathew Sino
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5DF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Researcher;Full+Stack+Developer;Prompt+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5DF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Researcher" alt="Typing SVG" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/RonnMath03?label=Follow&style=social)](https://github.com/RonnMath03)
@@ -17,22 +17,6 @@
 
 I'm a B.Tech student specializing in **Computer Science and Business Systems** with a deep passion for applying AI to solve real-world problems. My academic journey is centered on machine learning, full-stack development, and exploring the frontiers of AI research. I recently completed a research internship at **IIT Mandi**, where I delved into **Unsupervised Domain Adaptation (UDA)** for audio processing, significantly enhancing my expertise in deep learning and signal processing.
 
----
-
-## 🔬 Research & Experience
-
-### **Research Intern @ Indian Institute of Technology (IIT) Mandi**
-*School of Computing and Electrical Engineering*
-
-Under the guidance of **Dr. Padmanabhan Rajan** and Research Scholar **Abhishek Dileep**, I contributed to pioneering research on **Unsupervised Domain Adaptation (UDA)** for cross-device acoustic scene classification. Our work aimed to build models that generalize effectively across different audio recording devices without labeled data from the target devices.
-
-- **Focus**: Advanced UDA techniques for audio transformers (PaSST).
-- **Techniques Implemented**:
-  - **Domain-Adversarial Neural Networks (DANN)** using Gradient Reversal Layers (GRL).
-  - **Cycle Self-Training (CST)** with consistency regularization and advanced loss functions (FixMatch, Tsallis Entropy).
-- **Outcome**: Developed and validated novel frameworks that significantly improved model performance on the DCASE TAU 2020 dataset, bridging the domain gap between different audio sources.
-
----
 
 ## 🔮 Current Focus
 
@@ -41,7 +25,8 @@ const currentFocus = {
     research: ["Unsupervised Domain Adaptation", "Audio Scene Classification"],
     technologies: ["Generative AI", "PyTorch", "React"],
     education: "B.Tech in CS & Business Systems",
-    goals: "Creating impactful and robust AI solutions"
+    goals: "Creating impactful and robust AI solutions",
+    projects: ["UDA-Gradient-Reversal-Layer","Sustania",'FoodFit"]
 };
 ```
 
@@ -51,8 +36,9 @@ const currentFocus = {
 
 ### Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### AI & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
