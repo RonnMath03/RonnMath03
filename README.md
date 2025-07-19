@@ -3,7 +3,7 @@
 # 👨‍💻 Ronn Mathew Sino
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5DF7&center=true&vCenter=true&width=435&lines=CS+%26+Business+Systems+Student;AI+%26+ML+Intern+@+IIT+Mandi;Full+Stack+Developer;Startup+CTO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5DF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Researcher;Full+Stack+Developer;Prompt+Engineer" alt="Typing SVG" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/RonnMath03?label=Follow&style=social)](https://github.com/RonnMath03)
@@ -11,32 +11,26 @@
 
 </div>
 
----
-
-## 🎓 About Me 
+## 🎓 About Me
 
 > *"Technology is best when it brings people together."* – Matt Mullenweg
 
-I'm a final-year B.Tech student in **Computer Science and Business Systems**, passionate about AI research, product development, and startup innovation. I’ve worked across industry and academia, combining business understanding with deep technical work in AI and software development.
-
-### 🧠 Recent Highlights
-<div align="center">
-
-| 🎓 IIT Mandi Internship | 🌱 Sustania Project | 🚀 TripAmigo Startup |
-|:---:|:---:|:---:|
-| Researched **Domain Adaptation** in audio using GRL & CST | Built an **AI-powered web app** for sustainability | Co-founded a travel startup with 750+ users |
-
-</div>
+I'm a B.Tech student specializing in **Computer Science and Business Systems** with a deep passion for applying AI to solve real-world problems. My academic journey is centered on machine learning, full-stack development, and exploring the frontiers of AI research. I recently completed a research internship at **IIT Mandi**, where I delved into **Unsupervised Domain Adaptation (UDA)** for audio processing, significantly enhancing my expertise in deep learning and signal processing.
 
 ---
 
-## 🔬 Research Internship @ IIT Mandi
+## 🔬 Research & Experience
 
-During Summer 2025, I completed two projects on **Unsupervised Domain Adaptation for Acoustic Scene Classification** under the guidance of researchers at IIT Mandi using the **DCASE 2020 dataset**:
+### **Research Intern @ Indian Institute of Technology (IIT) Mandi**
+*School of Computing and Electrical Engineering*
 
-- 🌀 **GRL Project:** Implemented Gradient Reversal Layer using PaSST features, achieving a **22.8% accuracy improvement** across devices.
-- ♻️ **Cycle Self-Training:** Built a novel CST training loop for cross-device generalization, reaching a **24.3% gain** over source-only models.
-- 📁 Worked extensively with PyTorch, PaSST, and advanced ML pipelines.
+Under the guidance of **Dr. Padmanabhan Rajan** and Research Scholar **Abhishek Dileep**, I contributed to pioneering research on **Unsupervised Domain Adaptation (UDA)** for cross-device acoustic scene classification. Our work aimed to build models that generalize effectively across different audio recording devices without labeled data from the target devices.
+
+- **Focus**: Advanced UDA techniques for audio transformers (PaSST).
+- **Techniques Implemented**:
+  - **Domain-Adversarial Neural Networks (DANN)** using Gradient Reversal Layers (GRL).
+  - **Cycle Self-Training (CST)** with consistency regularization and advanced loss functions (FixMatch, Tsallis Entropy).
+- **Outcome**: Developed and validated novel frameworks that significantly improved model performance on the DCASE TAU 2020 dataset, bridging the domain gap between different audio sources.
 
 ---
 
@@ -44,57 +38,121 @@ During Summer 2025, I completed two projects on **Unsupervised Domain Adaptation
 
 ```js
 const currentFocus = {
-    research: ["Unsupervised Domain Adaptation", "Cross-Device Audio ML"],
-    technologies: ["PyTorch", "Generative AI", "Full Stack TS"],
-    projects: ["TripAmigo Web", "Sustania AI"],
-    goals: "Build impactful, real-world AI applications"
+    research: ["Unsupervised Domain Adaptation", "Audio Scene Classification"],
+    technologies: ["Generative AI", "PyTorch", "React"],
+    education: "B.Tech in CS & Business Systems",
+    goals: "Creating impactful and robust AI solutions"
 };
-🛠️ Tech Arsenal
-<div align="center">
-Languages & Tools
+```
 
+-----
 
+## 🛠️ Technology Arsenal
 
+\<div align="center"\>
 
-ML & AI
+### Core Languages & Frameworks
 
+### AI & Data Science
 
+### Web Technologies
 
+\<div\>
+\<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black" /\>
+\<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white" /\>
+\<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" /\>
+\<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" /\>
+\</div\>
 
-Web Development
-<img src="https://img.shields.io/badge/TypeScript-FullStack-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </div>
-🎯 Featured Projects
-🌱 Sustania – AI for Sustainability
-Hackathon Winner @ Hacksus'25
-A 24-hour full-stack ML-powered web app to track food waste and optimize consumption.
+### Other Languages
 
-📊 Reduced food waste prediction error by 18%
+\<div\>
+\<img src="https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge\&logo=r\&logoColor=white" /\>
+\<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white" /\>
+\</div\>
 
-🧠 Custom ML models trained on consumption & nutrition datasets
+\</div\>
 
-⚡ Built with TypeScript + Python
+-----
 
-🔗 View Project
+## 📊 GitHub Analytics
 
-✈️ TripAmigo – Travel Startup
-Designing Memories, Just for You
-A modern travel planning platform with 750+ customers and 75+ trips planned.
+\<p align="center"\>
+\<img src="https://github-readme-stats.vercel.app/api?username=RonnMath03\&show\_icons=true\&theme=tokyonight" width="400"\>
+\<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnMath03\&layout=compact\&theme=tokyonight" width="400"\>
+\</p\>
 
-🛠️ CTO & co-founder — led full-stack dev & architecture
+-----
 
-🔍 Focused on performance, personalization, and business ops
+## 🎯 Featured Projects
 
-🚀 Built with Vite, React, TailwindCSS
+\<div align="center"\>
 
-🌐 tripamigo.in
+### 🥗 FoodFit - Responsible Consumption Platform
 
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RonnMath03&show_icons=true&theme=tokyonight" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnMath03&layout=compact&theme=tokyonight" width="400"> </p>
-📫 Let's Connect
-<div align="center"> <a href="https://linkedin.com/in/ronnmathewsino"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://ronnmath03.github.io"> <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=github" alt="Portfolio" /> </a> <a href="mailto:ronnmathewsino@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /> </a> </div>
-<div align="center">
-"All the world's a stage..." 🎭
+*An ML-powered platform to optimize food consumption and reduce waste, built for Hacksus'25 (UN SDG 12).*
 
-⭐️ From RonnMath03
+\<details\>
+\<summary\>View Details\</summary\>
 
-<img src="https://komarev.com/ghpvc/?username=RonnMath03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" /> </div> ```
+  - **Core Idea**: Provides data-driven insights, personalized portion recommendations, and waste forecasts to promote sustainable eating habits.
+  - **Tech Stack**:
+      - **Frontend**: `TypeScript`, `React`, `Vite`, `Chakra UI`, `React Query`
+      - **Backend**: `Python`, `Flask`, `scikit-learn`, `XGBoost`
+  - **ML Models**: Implemented Gradient Boosting for portion prediction, a Random Forest for waste classification, and collaborative filtering for meal recommendations.
+  - **Repository**: [FoodFit](https://github.com/RonnMath03/FoodFit)
+
+\</details\>
+
+### 🎧 Unsupervised Domain Adaptation for Audio Classification
+
+*Research projects from my IIT Mandi internship, focused on cross-device acoustic scene classification.*
+
+\<details\>
+\<summary\>View Details\</summary\>
+
+#### Project 1: UDA with Gradient Reversal Layer (GRL)
+
+  - **Objective**: Implemented a Domain-Adversarial Neural Network (DANN) using a GRL to make an audio transformer (PaSST) robust to domain shifts across different recording devices.
+  - **Key Result**: Achieved **70.37%** accuracy on the target domain, a **22.76%** absolute improvement over the source-only baseline, demonstrating the effectiveness of adversarial training.
+  - **Repository**: [UDA-Gradient-Reversal-Layer](https://github.com/UDA-IIT-Mandi/UDA-Gradient-Reversal-Layer)
+
+#### Project 2: UDA with Cycle Self-Training (CST)
+
+  - **Objective**: Developed a novel framework using Cycle Self-Training (CST) combined with FixMatch consistency regularization and a Sharpness-Aware Minimization (SAM) optimizer.
+  - **Key Result**: Attained a **66.57%** overall accuracy by leveraging a multi-component loss function, proving the viability of CST for audio domain adaptation.
+  - **Repository**: [UDA-Cycle-Self-Training](https://github.com/UDA-IIT-Mandi/UDA-Cycle-Self-Training)
+
+\</details\>
+
+\</div\>
+
+-----
+
+## 📫 Connect With Me
+
+\<div align="center"\>
+\<a href="https://linkedin.com/in/ronnmathewsino"\>
+\<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin" alt="LinkedIn" /\>
+\</a\>
+\<a href="https://ronnmath03.github.io"\>
+\<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge\&logo=github" alt="Portfolio" /\>
+\</a\>
+\<a href="mailto:ronnmathewsino@gmail.com"\>
+\<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail" alt="Email" /\>
+\</a\>
+\</div\>
+
+-----
+
+\<div align="center"\>
+
+*"All the world's a stage"* 🎭
+
+⭐️ From [RonnMath03](https://github.com/RonnMath03)
+
+\<img src="https://komarev.com/ghpvc/?username=RonnMath03\&color=blueviolet\&style=flat-square\&label=Profile+Views" alt="Profile views" /\>
+
+\</div\>
+
+```
