@@ -2,6 +2,8 @@
 
 # 👨‍💻 Ronn Mathew Sino
 
+</div>
+
 ## 🔮 Current Focus
 
 ```js
@@ -27,8 +29,6 @@ const currentFocus = {
 ### AI & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-Beginner-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Intermediate-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Specialist-FF5733?style=for-the-badge&logo=artstation&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-Advanced-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Web Technologies
 <div>
