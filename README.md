@@ -10,7 +10,7 @@ const currentFocus = {
     technologies: ["Generative AI", "PyTorch", "React"],
     education: "B.Tech in CS & Business Systems",
     goals: "Creating impactful and robust AI solutions",
-    projects: ["UDA-Gradient-Reversal-Layer","Sustania",'FoodFit"]
+    projects: ["UDA-Gradient-Reversal-Layer","Sustania","FoodFit"]
 };
 ```
 
