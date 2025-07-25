@@ -1,9 +1,3 @@
-<div align="center">
-
-# 👨‍💻 Ronn Mathew Sino
-
-</div>
-
 ## 🔮 Current Focus
 
 ```js
