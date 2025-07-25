@@ -2,22 +2,6 @@
 
 # 👨‍💻 Ronn Mathew Sino
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5DF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+ML+Researcher" alt="Typing SVG" />
-</p>
-
-[![GitHub followers](https://img.shields.io/github/followers/RonnMath03?label=Follow&style=social)](https://github.com/RonnMath03)
-[![LinkedIn Follow](https://img.shields.io/badge/Follow-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronnmathewsino)
-
-</div>
-
-## 🎓 About Me
-
-> *"Technology is best when it brings people together."* – Matt Mullenweg
-
-I'm a B.Tech student specializing in **Computer Science and Business Systems** with a deep passion for applying AI to solve real-world problems. My academic journey is centered on machine learning, full-stack development, and exploring the frontiers of AI research. I recently completed a research internship at **IIT Mandi**, where I delved into **Unsupervised Domain Adaptation (UDA)** for audio processing, significantly enhancing my expertise in deep learning and signal processing.
-
-
 ## 🔮 Current Focus
 
 ```js
@@ -134,14 +118,4 @@ const currentFocus = {
     </a>
 </div>
 
----
 
-<div align="center">
-
-*"All the world's a stage"* 🎭
-
-⭐️ From [RonnMath03](https://github.com/RonnMath03)
-
-<img src="https://komarev.com/ghpvc/?username=RonnMath03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-</div>
