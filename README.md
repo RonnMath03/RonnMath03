@@ -47,11 +47,14 @@ Built in 24 hours at Hacksus'25 (UN SDG 12). Personalised portion recommendation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile details" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats" />
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most used languages by commit" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Top languages by commit" />
+  </picture>
 </p>
 
 ---
