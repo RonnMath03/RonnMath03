@@ -12,12 +12,13 @@
 ## 🎯 Featured Work
 
 ### 🎧 Domain Adaptation for Acoustic Scene Classification
-Sound-recognition models lose accuracy when audio comes from a different phone or recorder than the one used in training. This research, started at IIT Mandi and continued as my final-year project, makes them hold up across devices (DCASE TAU 2020 Mobile, PaSST audio transformer, PyTorch).
+Sound-recognition models lose accuracy when audio comes from a different phone or recorder than the one used in training. This research, started at IIT Mandi and continued as my final-year project, makes them hold up across devices (DCASE TAU 2020 Mobile, PyTorch).
 
-| Repository | Approach | Result on unseen devices |
+| Repository | What it does | Result |
 | --- | --- | --- |
-| [UDA-Gradient-Reversal-Layer](https://github.com/UDA-IIT-Mandi/UDA-Gradient-Reversal-Layer) | Domain-adversarial training (DANN with a gradient reversal layer) | 70.37% accuracy, +22.76 points over no adaptation |
-| [UDA-Cycle-Self-Training](https://github.com/UDA-IIT-Mandi/UDA-Cycle-Self-Training) | Cycle Self-Training with FixMatch consistency and SAM optimiser | 66.57% accuracy |
+| [UDA-mfdwc-wavelet_features](https://github.com/RonnMath03/UDA-mfdwc-wavelet_features) | Final-year project: compares a PaSST transformer and lightweight MFDWC wavelet features, each with GRL and Cycle Self-Training | PaSST + GRL raised average accuracy on unseen devices from 53.9% to 65.5% |
+| [UDA-Gradient-Reversal-Layer](https://github.com/UDA-IIT-Mandi/UDA-Gradient-Reversal-Layer) | IIT Mandi: PaSST with domain-adversarial training (DANN + gradient reversal layer) | 64.1% target accuracy, up from 51.9% without adaptation |
+| [UDA-Cycle-Self-Training](https://github.com/UDA-IIT-Mandi/UDA-Cycle-Self-Training) | IIT Mandi: PaSST with Cycle Self-Training | 56.2% target accuracy, up from 51.9% |
 
 📄 *State-of-the-Art Domain Adaptation in Deep Learning for Acoustic Scene Classification*, ICTEST 2026 (IEEE Xplore)
 
@@ -40,6 +41,18 @@ Built in 24 hours at Hacksus'25 (UN SDG 12). Personalised portion recommendation
 **Web & cloud:** React · Node.js · Flask · REST APIs · Cloudflare · DigitalOcean
 
 **AI-augmented development:** Claude Code · Antigravity · Gemini
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" width="49%" alt="Most used languages by commit" />
+</p>
 
 ---
 
